@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://raiyoyikah.grootipsum.com/sitemap.xml
